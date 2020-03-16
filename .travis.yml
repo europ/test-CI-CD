@@ -1,0 +1,7 @@
+notifications:
+  email: false
+
+dist: bionic # 18.04
+
+script:
+  - date
